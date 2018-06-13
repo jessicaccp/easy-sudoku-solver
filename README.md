@@ -1,4 +1,4 @@
-# sudoku-solver
-Solucionador de sudoku de nível fácil ou médio.
+# fup-ufc
+Implementação em Pascal de um solucionador de sudoku de nível fácil.
 
-Trabalho prático da disciplina de Fundamentos de Programação 2012.1, UFC.
+Trabalho prático final da disciplina de Fundamentos de Programação 2012.1, UFC.
